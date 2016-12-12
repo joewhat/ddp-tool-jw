@@ -3,7 +3,7 @@ Command line tools for testing and playing with DDP.
 ## Install
 
 ```bash
-> sudo npm install -g ddp-tools
+> sudo npm install -g ddp-tools-jw
 ```
 
 ### Usage
