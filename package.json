@@ -1,6 +1,6 @@
 {
   "name": "ddp-tools-jw",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Command line tools for testing and playing with Meteor DDP.",
   "dependencies": {
     "ddp": "~0.3.3",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/joewhat/ddp-tool-test.git"
+    "url": "git://github.com/joewhat/ddp-tool-jw.git"
   },
   "keywords": [
     "meteor",
