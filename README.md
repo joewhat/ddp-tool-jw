@@ -17,6 +17,10 @@ Command line tools for testing and playing with DDP.
 ```
 
 ```bash
+> ddp --exit_on_results --port 3000 call <method_name> [<param1> <param2> ...]
+```
+
+```bash
 > ddp subscribe <subscription_name> [<param1> <param2> ...]
 ```
 
